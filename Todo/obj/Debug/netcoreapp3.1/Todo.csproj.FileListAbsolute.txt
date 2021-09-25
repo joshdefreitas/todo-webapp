@@ -167,3 +167,5 @@ D:\Toolkit\Mirror\Projects\dotNet\Todo\Todo\obj\Debug\netcoreapp3.1\Razor\Areas\
 D:\Toolkit\Mirror\Projects\dotNet\Todo\Todo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\Toolkit\Mirror\Projects\dotNet\Todo\Todo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\Toolkit\Mirror\Projects\dotNet\Todo\Todo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Toolkit\Mirror\Projects\dotNet\Todo\Todo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
+D:\Toolkit\Mirror\Projects\dotNet\Todo\Todo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_Layout.cshtml.g.cs
